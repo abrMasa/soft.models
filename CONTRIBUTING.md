@@ -38,7 +38,3 @@ The build of the repository is described in the [README](README.md#build); the t
 * Observed pins: `soft.go` at `90286c3...` (merge of PR #22 `rename.library.index`, 9 commits behind HEAD, missing PRs #23, #24, #25); `soft.ts` at `f0dd72e...` (= HEAD).
 * Tags: 9 local tags `v1.1.0` to `v1.8.0`; latest `v1.8.0` = `91fcdc5` (2023-09-22), 15 commits behind HEAD. HEAD `f0dd72e` (merge of PR #25 `ecore.factory`, 2024-09-19) is untagged.
 * General pipeline documentation: [cicd](https://github.com/masagroup/cicd) and the ecosystem wiki page [CI/CD pipelines](https://github.com/masagroup/wiki/wiki/cicd-pipelines).
-
-## Known issues and open questions
-
-They are not kept in the repository: see the [private artifact](https://claude.ai/artifact/UfvKmky7e8LwEXf192hQjQ#soft.models) that holds them for every page of the wiki.
